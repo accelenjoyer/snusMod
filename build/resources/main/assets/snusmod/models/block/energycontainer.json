@@ -1,0 +1,11 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "snusmod:block/top",
+    "up": "snusmod:block/top",
+    "north": "snusmod:block/side",
+    "south": "snusmod:block/forward",
+    "west": "snusmod:block/side",
+    "east": "snusmod:block/side"
+  }
+}

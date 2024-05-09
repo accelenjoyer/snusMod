@@ -1,0 +1,23 @@
+{
+  "type": "crafting_shaped",
+  "pattern": [
+    "RSR",
+    "SKS",
+    "RSR"
+  ],
+  "key": {
+    "R": {
+      "item": "minecraft:redstone_block"
+    },
+    "S": {
+      "item": "minecraft:stone"
+    },
+    "K": {
+      "item": "snusmod:final_snus"
+    }
+  },
+  "result": {
+    "item": "snusmod:energycontainer",
+    "count": 1
+  }
+}

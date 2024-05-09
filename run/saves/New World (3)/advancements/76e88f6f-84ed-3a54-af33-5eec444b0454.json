@@ -1,0 +1,33 @@
+{
+  "minecraft:husbandry/balanced_diet": {
+    "criteria": {
+      "enchanted_golden_apple": "2024-05-04 18:25:18 +0300"
+    },
+    "done": false
+  },
+  "minecraft:recipes/misc/mojang_banner_pattern": {
+    "criteria": {
+      "has_enchanted_golden_apple": "2024-05-04 18:25:07 +0300"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/root": {
+    "criteria": {
+      "consumed_item": "2024-05-04 18:25:18 +0300"
+    },
+    "done": true
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "minecraft:plains": "2024-05-04 18:24:59 +0300"
+    },
+    "done": false
+  },
+  "minecraft:nether/netherite_armor": {
+    "criteria": {
+      "netherite_armor": "2024-05-04 18:25:12 +0300"
+    },
+    "done": true
+  },
+  "DataVersion": 2586
+}

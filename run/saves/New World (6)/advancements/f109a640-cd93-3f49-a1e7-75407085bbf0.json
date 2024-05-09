@@ -1,0 +1,39 @@
+{
+  "minecraft:recipes/food/bread": {
+    "criteria": {
+      "has_wheat": "2024-05-08 10:03:11 +0300"
+    },
+    "done": true
+  },
+  "minecraft:adventure/root": {
+    "criteria": {
+      "killed_something": "2024-05-08 10:04:35 +0300"
+    },
+    "done": true
+  },
+  "minecraft:adventure/kill_a_mob": {
+    "criteria": {
+      "minecraft:slime": "2024-05-08 10:04:35 +0300"
+    },
+    "done": true
+  },
+  "minecraft:adventure/kill_all_mobs": {
+    "criteria": {
+      "minecraft:slime": "2024-05-08 10:04:35 +0300"
+    },
+    "done": false
+  },
+  "minecraft:recipes/building_blocks/hay_block": {
+    "criteria": {
+      "has_wheat": "2024-05-08 10:03:11 +0300"
+    },
+    "done": true
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "minecraft:plains": "2024-05-08 10:03:11 +0300"
+    },
+    "done": false
+  },
+  "DataVersion": 2586
+}

@@ -1,0 +1,23 @@
+{
+  "infected_sound": {
+    "sounds": [
+      {
+        "name": "snusmod:infected_sound"
+      }
+    ]
+  },
+  "final_sound": {
+    "sounds": [
+      {
+        "name": "snusmod:final_sound"
+      }
+    ]
+  },
+  "energy_sound": {
+    "sounds": [
+      {
+        "name": "snusmod:energy_sound"
+      }
+    ]
+  }
+}

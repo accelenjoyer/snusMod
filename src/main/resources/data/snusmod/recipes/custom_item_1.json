@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "WDW",
+    "WFW",
+    "WWW"
+  ],
+  "key": {
+    "W": {
+      "item": "minecraft:wheat"
+    },
+    "D": {
+      "item": "minecraft:oak_planks"
+    },
+    "F": {
+      "item": "minecraft:string"
+    }
+  },
+  "result": {
+    "item": "snusmod:custom_item_1",
+    "count": 1
+  }
+}

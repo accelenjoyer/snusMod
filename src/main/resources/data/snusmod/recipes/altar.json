@@ -1,0 +1,23 @@
+{
+  "type": "crafting_shaped",
+  "pattern": [
+    "PPP",
+    "PSP",
+    "POP"
+  ],
+  "key": {
+    "P": {
+      "item": "minecraft:purpur_block"
+    },
+    "S": {
+      "item": "minecraft:nether_star"
+    },
+    "O": {
+      "item": "minecraft:obsidian"
+    }
+  },
+  "result": {
+    "item": "snusmod:altar",
+    "count": 1
+  }
+}

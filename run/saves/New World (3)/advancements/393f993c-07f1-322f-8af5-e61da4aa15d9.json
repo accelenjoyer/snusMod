@@ -1,0 +1,21 @@
+{
+  "minecraft:husbandry/root": {
+    "criteria": {
+      "consumed_item": "2024-05-09 02:48:32 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/chest": {
+    "criteria": {
+      "has_lots_of_items": "2024-05-09 02:48:33 +0300"
+    },
+    "done": true
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "minecraft:plains": "2024-05-09 02:47:40 +0300"
+    },
+    "done": false
+  },
+  "DataVersion": 2586
+}

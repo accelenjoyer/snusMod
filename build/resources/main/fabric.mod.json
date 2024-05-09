@@ -1,0 +1,30 @@
+{
+  "schemaVersion": 1,
+  "id": "snusmod",
+  "version": "1.0-SNAPSHOT",
+  "name": "snusmod",
+  "description": "",
+  "authors": [],
+  "contact": {
+    "repo": "https://github.com/PC/snusmod"
+  },
+  "license": "All-Rights-Reserved",
+  "icon": "assets/snusmod/icon.png",
+  "environment": "*",
+  "entrypoints": {
+    "client": [
+      "modsnus.snusmod.client.SnusmodClient"
+    ],
+    "main": [
+      "modsnus.snusmod.Snusmod"
+    ]
+  },
+  "mixins": [
+    "snusmod.mixins.json"
+  ],
+  "depends": {
+    "fabricloader": ">=0.15.10",
+    "fabric": "*",
+    "minecraft": "1.16.5"
+  }
+}

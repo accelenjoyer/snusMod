@@ -1,0 +1,27 @@
+{
+  "minecraft:recipes/food/bread": {
+    "criteria": {
+      "has_wheat": "2024-05-07 08:39:52 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/beacon": {
+    "criteria": {
+      "has_nether_star": "2024-05-07 08:39:52 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/hay_block": {
+    "criteria": {
+      "has_wheat": "2024-05-07 08:39:52 +0300"
+    },
+    "done": true
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "minecraft:plains": "2024-05-07 08:39:52 +0300"
+    },
+    "done": false
+  },
+  "DataVersion": 2586
+}

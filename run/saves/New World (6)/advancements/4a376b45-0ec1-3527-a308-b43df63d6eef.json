@@ -1,0 +1,39 @@
+{
+  "minecraft:recipes/decorations/campfire": {
+    "criteria": {
+      "has_coal": "2024-05-07 22:14:41 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/bread": {
+    "criteria": {
+      "has_wheat": "2024-05-07 22:14:41 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/chest": {
+    "criteria": {
+      "has_lots_of_items": "2024-05-07 22:14:41 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/coal_block": {
+    "criteria": {
+      "has_coal": "2024-05-07 22:14:41 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/hay_block": {
+    "criteria": {
+      "has_wheat": "2024-05-07 22:14:41 +0300"
+    },
+    "done": true
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "minecraft:plains": "2024-05-07 22:14:41 +0300"
+    },
+    "done": false
+  },
+  "DataVersion": 2586
+}

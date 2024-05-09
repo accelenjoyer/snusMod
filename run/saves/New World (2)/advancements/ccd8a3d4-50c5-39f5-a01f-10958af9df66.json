@@ -1,0 +1,15 @@
+{
+  "minecraft:husbandry/root": {
+    "criteria": {
+      "consumed_item": "2024-05-01 02:49:26 +0300"
+    },
+    "done": true
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "minecraft:plains": "2024-05-01 02:49:13 +0300"
+    },
+    "done": false
+  },
+  "DataVersion": 2586
+}

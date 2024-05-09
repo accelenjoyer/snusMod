@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "WDW",
+    "WFW",
+    "WWW"
+  ],
+  "key": {
+    "W": {
+      "item": "minecraft:wheat"
+    },
+    "D": {
+      "item": "minecraft:gold_ingot"
+    },
+    "F": {
+      "item": "minecraft:string"
+    }
+  },
+  "result": {
+    "item": "snusmod:custom_item_3",
+    "count": 1
+  }
+}
